@@ -1,0 +1,20 @@
+{
+  "name": "async-queue",
+  "version": "1.0.0",
+  "description": "异步队列",
+  "main": "queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shockingsrose/async-queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shockingsrose/async-queue/issues"
+  },
+  "homepage": "https://github.com/shockingsrose/async-queue#readme"
+}
